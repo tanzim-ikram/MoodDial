@@ -6,7 +6,7 @@
 #include <Wire.h>
 
 // ---------- BACKEND ----------
-const char* BACKEND_URL = "YOUR_BACKEND_URL";
+const char* BACKEND_URL = "https://telegram-ai-bot-backend-production.up.railway.app/webhook";
 const char* CHAT_ID    = "YOUR_CHAT_ID";
 
 // ---------- PIN DEFINITIONS ----------
